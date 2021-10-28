@@ -1,4 +1,4 @@
 # public
 こんにちわ！
 
-test用public
+test用public_github
